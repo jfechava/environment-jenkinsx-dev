@@ -1,7 +1,7 @@
 dependencies:
 - host: github.com
   owner: jfechava
-  repo: express-hello
-  url: https://github.com/jfechava/express-hello.git
+  repo: hello-video-3-1
+  url: https://github.com/jfechava/hello-video-3-1.git
   version: ""
   versionURL: ""
